@@ -11,6 +11,7 @@
 ### 🚀 About Me
 
 A student who enjoys programming and photography.
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -20,6 +21,7 @@ A student who enjoys programming and photography.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
+
 
 ### 🔗 Connect With Me
 
